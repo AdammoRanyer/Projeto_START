@@ -1,0 +1,4 @@
+asgiref==3.2.10
+pygame==1.9.6
+pytz==2020.1
+sqlparse==0.3.1
